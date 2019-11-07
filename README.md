@@ -1,8 +1,10 @@
 ![Accredible Logo](https://s3.amazonaws.com/accredible-cdn/accredible_logo_sm.png)
 
-# Accredible Moodle Activity Plugin
+# Accredible Moodle Activity Plugin (SANDBOX ENV)
 
 ## Overview
+*This is a Sandbox environment fork of the Accredible certificates and badges Moodle plugin.*
+
 The Accredible platform enables organizations to create, manage and distribute digital credentials as digital certificates or open badges.
 
 An example digital certificate and badge can be viewed here: https://www.credential.net/10000005

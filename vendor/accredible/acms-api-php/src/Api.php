@@ -12,7 +12,7 @@ class Api {
 
 	private $api_key;
 
-	private $api_endpoint = "https://api.accredible.com/v1/";
+	private $api_endpoint = "https://sandbox.api.accredible.com/v1/";
 
 	/**
 	 * Set API Key
